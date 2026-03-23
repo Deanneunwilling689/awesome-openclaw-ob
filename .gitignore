@@ -1,0 +1,11 @@
+# Obsidian
+.obsidian/
+
+# macOS
+.DS_Store
+
+# Canvas files
+*.canvas
+
+# Misc
+*.zip
